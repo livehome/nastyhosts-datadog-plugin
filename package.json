@@ -1,0 +1,22 @@
+{
+  "name": "nastyhosts-statsd-plugin",
+  "version": "0.1.0",
+  "description": "Send performance metrics to StatsD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/livehome/nastyhosts-statsd-plugin.git"
+  },
+  "author": "LiveHome Sp. z o.o.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/livehome/nastyhosts-statsd-plugin/issues"
+  },
+  "homepage": "https://github.com/livehome/nastyhosts-statsd-plugin#readme",
+  "dependencies": {
+    "express-statsd": "^0.3.0"
+  }
+}
